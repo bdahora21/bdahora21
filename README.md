@@ -1,2 +1,3 @@
-- Graduando em Engenharia de Computação pela Universidade Federal do Pará.
-- Entusiasta em Moodle.
+- Federal University of Pará
+- Computer Engineer
+- Moodle Developer
