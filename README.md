@@ -1,3 +1,3 @@
 - Federal University of Pará, Brazil
 - Computer Engineer
-- Moodle Developer
+- Laravel and Moodle Developer
